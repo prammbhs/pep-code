@@ -25,7 +25,7 @@ int main() {
 
     int n =10;
     n= n++;// This line has no effect on n as n++ returns the value before incrementing.
-    cout << "n = " << n << endl; // n remains 10
-    
+    cout << "n = " << n << endl;
+
     
 }
